@@ -1,0 +1,3 @@
+enum Tier { TIER1, TIER_2, TIER_3, TIER_4 }
+
+enum ROLE { ROLE_USER,ROLE_MERCHANT }
